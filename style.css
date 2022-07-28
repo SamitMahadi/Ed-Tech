@@ -24,7 +24,9 @@ footer {
         font-size: 1em;
     }
 
-
+    .body {
+        overflow: hidden;
+    }
 
     .carousel-caption p {
         font-size: 0.5em;
