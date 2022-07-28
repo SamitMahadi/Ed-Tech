@@ -11,6 +11,10 @@
     letter-spacing: 2px;
 }
 
+footer {
+    padding: 100px;
+}
+
 .my-img {
     filter: brightness(50%);
 }
